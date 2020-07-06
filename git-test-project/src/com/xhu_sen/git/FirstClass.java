@@ -16,4 +16,9 @@ public class FirstClass {
     public void test(){
         System.out.println("change");
     }
+
+    public void test2(){
+        int i = 0;
+        i += 19;
+    }
 }
