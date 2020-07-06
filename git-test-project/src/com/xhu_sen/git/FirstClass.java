@@ -20,5 +20,7 @@ public class FirstClass {
     public void test2(){
         int i = 0;
         i += 19;
+
+        System.out.println(i);
     }
 }
